@@ -25,14 +25,16 @@ Hello everyone, I'm Zeki TEL. I am studying Computer Engineering at Boğaziçi U
  I have worked on Python, Java, C/C++, and MATLAB
 * E-mail : zeki.tel34@gmail.com / zeki.tel @boun.edu.tr
 * [Linkedin](https://www.linkedin.com/in/zeki-tel-bb4325b7/)
-* [Facebook](https://www.facebook.com/sfsdfasf)
+* [Facebook](https://www.facebook.com/zekitel34)
 
 
 ### Mustafa Şişik
 
-Hi guys, I am Mustafa Şişik, 4th grade Computer Engineering student at Boğaziçi University. I like watching comedy movies. I love Python and Android.
+Hello, I am Mustafa Şişik, 4th grade Computer Engineering student at Bogazici University. I have an intermediate knowledge in Android programming and Python programming languages. I am also interested in innovations in the world of iot. This project make me hopefull to create new technologies on this field of science.
 
 * E-mail: mustafa.sisik@boun.edu.tr
+* [Linkedin](https://www.linkedin.com/in/mustafa-%C5%9Fi%C5%9Fik-411a4766/)
+* [Facebook](https://www.facebook.com/mustafasisik0)
 
 # Hardware setup
 <img src="https://github.com/bounIoT/LibraryChairControl/blob/master/Figures/HardwareSetup.jpg">
